@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on MKLau</title>
+    <title>Authors on MK Lau</title>
     <link>http://github.mklau.io/authors/</link>
-    <description>Recent content in Authors on MKLau</description>
+    <description>Recent content in Authors on MK Lau</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="http://github.mklau.io/authors/index.xml" rel="self" type="application/rss+xml" />

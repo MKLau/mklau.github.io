@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opengraph on MKLau</title>
+    <title>Opengraph on MK Lau</title>
     <link>http://github.mklau.io/tags/og/</link>
-    <description>Recent content in Opengraph on MKLau</description>
+    <description>Recent content in Opengraph on MK Lau</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="http://github.mklau.io/tags/og/index.xml" rel="self" type="application/rss+xml" />
