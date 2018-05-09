@@ -1,0 +1,15 @@
+---
+title: Published! Regime shifts in a microecosytem
+author: ~
+date: '2018-04-11'
+slug: sarrsens
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "ecosystems", "pitcher plants", "Sarracenia"]
+authors: []
+---
+
+My manuscript on the dynamics of the pitcher plant microecosystem just
+got accepted at
+[Ecological Modeling](https://www.journals.elsevier.com/ecological-modelling)!
+[You can view a pre-print here](https://www.biorxiv.org/content/early/2018/04/24/087296).
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on MKLau</title>
+    <link>http://github.mklau.io/page/</link>
+    <description>Recent content in Pages on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://github.mklau.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DataSci</title>
+      <link>http://github.mklau.io/datasci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/datasci/</guid>
+      <description>Scientific reproducibility I am an advocate of open-source software and data sharing. You can find tools that I&amp;rsquo;ve helped to develop at provenance@harvard and on Github.
+Network analysis software I have helped to code Ecosystem Network Analysis (ENA) algorithms into the R programming language. These have been integrated into an open-source software package called enaR. Check out our develop page at https://github.com/SEELab/enaR.
+I&amp;rsquo;ve also programmed and hosted a Shiny app for exploring the Pitcher Plant Microecosystem model.</description>
+    </item>
+    
+    <item>
+      <title>Ecology</title>
+      <link>http://github.mklau.io/ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/ecology/</guid>
+      <description>Ecological networks I collaborate with folks in the Systems Ecology and Ecoinformatics (SEE) Lab at UNCW to develop and apply network theory based tools for studying complex ecosystems. For more info, check out Dr. Borrett&amp;rsquo;s SEELab website.
+Genes to ecosystems I have collaborated with researchers at Northern Arizona University on a range of projects studying how genetic variation can impact ecosystems. You can read more about this research in my blog or on the website for the Merriem-Powell Center&amp;rsquo;s website.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://github.mklau.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/teaching/</guid>
+      <description>Harvard Forest REU Program While at Harvard Forest I have participated as a mentor and instructor for the the Harvard Forest REU program.
+R for Ecologists I have also taught introductory courses for undegrads, graduate students and professionals at the Northern Arizona University, University of Bordeaux, University of North Carolina Wilmington and Harvard Forest.
+Ecosystem Network Analysis for Ecologists At the Ecological Society of America meeting, I co-taught a class on using Ecological Network Analyses (ENA) to analyze network data using the enaR software package developed for the R programming language.</description>
+    </item>
+    
+  </channel>
+</rss>

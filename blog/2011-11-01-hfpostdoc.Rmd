@@ -1,0 +1,17 @@
+---
+title: Harvard Forest Postdoctoral Fellowship
+author: ~
+date: '2011-11-01'
+slug: hfpostdoc
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "Postdoc", "Fellowship", "Ants", "Pitcher Plants", "Climate Change"]
+authors: []
+---
+
+I have accepted an invitation to conduct postdoctoral studies at
+[Harvard Forest](http://harvardforest.fas.harvard.edu/) (Harvard
+Univeristy) to continue my research on the impacts of genetic
+variation on ecological networks. I'll be working with
+[Dr. Aaron Ellison](http://harvardforest.fas.harvard.edu/aaron-ellison)
+who has studied the impacts of ecological disturbance on a broad
+variety of ecological systems.

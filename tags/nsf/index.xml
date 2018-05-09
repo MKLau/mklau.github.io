@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSF on MKLau</title>
+    <link>http://github.mklau.io/tags/nsf/</link>
+    <description>Recent content in NSF on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/nsf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harvard Forest REU Program</title>
+      <link>http://github.mklau.io/blog/hfreu/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/hfreu/</guid>
+      <description>I have mentored students in association with the Harvard Forest Research Experience for Undergraduates (REU) Program. The REU is an ecology focused opportunity for undergraduates to get hands-on experience conducting field and laboratory research.</description>
+    </item>
+    
+    <item>
+      <title>Genes to ecosystems</title>
+      <link>http://github.mklau.io/blog/g2e/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/g2e/</guid>
+      <description>I conducted my doctoral dissertation research at Northern Arizona University NAU in the Biological Sciences Department. I worked primarily with Dr. Thomas G. Whitham’s Cottonwood Ecology Group in association with the Merriem-Powell Center for Environmental Research.</description>
+    </item>
+    
+  </channel>
+</rss>

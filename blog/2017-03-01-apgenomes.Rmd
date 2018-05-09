@@ -1,0 +1,17 @@
+---
+title: Released! Draft *Aphaenogaster* genomes
+author: ~
+date: '2017-01-01'
+slug: scidata
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "NCBI", "Genomes", "Ants", "Climate Change", "Broad Institute"]
+authors: []
+---
+
+Just finished the final assembly of draft genomes for six species of
+seed ants from the genus *Aphaenogaster*. You can read the pre-print
+of the paper
+[here](https://www.biorxiv.org/content/early/2018/04/24/302679). 
+
+The sequences will be released on NCBI in May 2018
+[check them out here](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385595).

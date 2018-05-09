@@ -1,0 +1,17 @@
+---
+title: Ecosystem network research
+author: ~
+date: '2012-08-07'
+slug: econets
+categories: ["research"]
+tags: ["networks", "UNCW", "SEELab", "enaR", "systems"]
+authors: []
+---
+
+I have been working with Dr. Stuart Borrett's
+[Systems Ecology and Ecoinformatics Lab](http://people.uncw.edu/borretts/)
+(aka. the SEELab) at the University of North Carolina Wilmington. to
+apply and develop computational tools for analyzing complex ecological
+networks. Together we have produced the [enaR](github.com/SEELab/enaR)
+Ecosystem Network Analysis (ENA) package that incorporates over 40
+years of research into network analysis algorithms.

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://github.mklau.io/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/datasci/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/ecology/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/sarrsens/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/scidata/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/scidata/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/dataprov/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/hfreu/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/g2e/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/knau/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/econets/</loc>
+    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/hfpostdoc/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/ants/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/arthropods/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/blog/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/broad-institute/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/climate-change/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/cottonwood/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/cottonwoods/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/data/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/dataverse/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/dissertation/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/ecology/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/ecosystems/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/enar/</loc>
+    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/evolution/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/fellowship/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/genes/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/genes-to-ecosystems/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/genomes/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/hf/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/harvard-forest/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/harvard-university/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/igert/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/interactions/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/john-muir/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/knau/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/lichen/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/mentoring/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/nau/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/ncbi/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/nsf/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/nature-scientific-data/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/networks/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/pitcher-plants/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/pitcher-plants/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/postdoc/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/provenance/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/reu/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/reproducibility/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/categories/research/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/research-experience/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/seelab/</loc>
+    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/sarracenia/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/systems/</loc>
+    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/thousand-invisible-cords/</loc>
+    <lastmod>2012-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/uncw/</loc>
+    <lastmod>2012-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://github.mklau.io/tags/undergraduates/</loc>
+    <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

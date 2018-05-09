@@ -1,0 +1,12 @@
+---
+title: Published! If these data could talk...
+author: ~
+date: '2017-01-01'
+slug: scidata
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "Data", "Provenance", "Reproducibility", "Nature Scientific Data", "Dataverse"]
+authors: []
+---
+
+Our paper on applications of data provenance is out in
+[Nature Scientific Data](https://scholar.harvard.edu/files/tfjmp/files/sdata2017114_01.pdf)!

@@ -1,0 +1,17 @@
+---
+title: Genes to ecosystems
+author: ~
+date: '2014-04-24'
+slug: g2e
+categories: ["research"]
+tags: ["genes", "ecosystems", "IGERT", "NSF", "dissertation", "lichen", "cottonwoods", "arthropods", "evolution", "networks", "interactions", "NAU"]
+authors: []
+---
+
+I conducted my doctoral dissertation research at Northern Arizona
+University [NAU](https://nau.edu/biological-sciences/) in the
+[Biological Sciences Department](https://nau.edu/biological-sciences/). I
+worked primarily with Dr. Thomas G. Whitham's
+[Cottonwood Ecology Group](https://nau.edu/Merriam-Powell/cottonwood-ecology/)
+in association with the [Merriem-Powell Center for Environmental
+Research](https://nau.edu/Merriam-Powell/). 

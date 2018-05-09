@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarracenia on MKLau</title>
+    <link>http://github.mklau.io/tags/sarracenia/</link>
+    <description>Recent content in Sarracenia on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/sarracenia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published! Regime shifts in a microecosytem</title>
+      <link>http://github.mklau.io/blog/sarrsens/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/sarrsens/</guid>
+      <description>My manuscript on the dynamics of the pitcher plant microecosystem just got accepted at Ecological Modeling! You can view a pre-print here.</description>
+    </item>
+    
+  </channel>
+</rss>

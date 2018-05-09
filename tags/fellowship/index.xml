@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fellowship on MKLau</title>
+    <link>http://github.mklau.io/tags/fellowship/</link>
+    <description>Recent content in Fellowship on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/fellowship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harvard Forest Postdoctoral Fellowship</title>
+      <link>http://github.mklau.io/blog/hfpostdoc/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/hfpostdoc/</guid>
+      <description>I have accepted an invitation to conduct postdoctoral studies at Harvard Forest (Harvard Univeristy) to continue my research on the impacts of genetic variation on ecological networks. I’ll be working with Dr. Aaron Ellison who has studied the impacts of ecological disturbance on a broad variety of ecological systems.</description>
+    </item>
+    
+  </channel>
+</rss>

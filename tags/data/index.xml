@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on MKLau</title>
+    <link>http://github.mklau.io/tags/data/</link>
+    <description>Recent content in Data on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published! If these data could talk...</title>
+      <link>http://github.mklau.io/blog/scidata/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/scidata/</guid>
+      <description>Our paper on applications of data provenance is out in Nature Scientific Data!</description>
+    </item>
+    
+    <item>
+      <title>Data provenance for scientific reproducibility</title>
+      <link>http://github.mklau.io/blog/dataprov/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/dataprov/</guid>
+      <description>I’ll be joinging a team based at Harvard University (Computer Science and Harvard Forest) and Mount Holyoke College to work on methods for capturing and storing information about scientific computations. We will be focusing on Data Provenance, which is a formal record of the processes that created a given data set.</description>
+    </item>
+    
+  </channel>
+</rss>

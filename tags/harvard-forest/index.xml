@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harvard Forest on MKLau</title>
+    <link>http://github.mklau.io/tags/harvard-forest/</link>
+    <description>Recent content in Harvard Forest on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/harvard-forest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published! Regime shifts in a microecosytem</title>
+      <link>http://github.mklau.io/blog/sarrsens/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/sarrsens/</guid>
+      <description>My manuscript on the dynamics of the pitcher plant microecosystem just got accepted at Ecological Modeling! You can view a pre-print here.</description>
+    </item>
+    
+    <item>
+      <title>Published! If these data could talk...</title>
+      <link>http://github.mklau.io/blog/scidata/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/scidata/</guid>
+      <description>Our paper on applications of data provenance is out in Nature Scientific Data!</description>
+    </item>
+    
+    <item>
+      <title>Released! Draft *Aphaenogaster* genomes</title>
+      <link>http://github.mklau.io/blog/scidata/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/scidata/</guid>
+      <description>Just finished the final assembly of draft genomes for six species of seed ants from the genus Aphaenogaster. You can read the pre-print of the paper here.
+The sequences will be released on NCBI in May 2018 check them out here.</description>
+    </item>
+    
+    <item>
+      <title>Data provenance for scientific reproducibility</title>
+      <link>http://github.mklau.io/blog/dataprov/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/dataprov/</guid>
+      <description>I’ll be joinging a team based at Harvard University (Computer Science and Harvard Forest) and Mount Holyoke College to work on methods for capturing and storing information about scientific computations. We will be focusing on Data Provenance, which is a formal record of the processes that created a given data set.</description>
+    </item>
+    
+    <item>
+      <title>Harvard Forest REU Program</title>
+      <link>http://github.mklau.io/blog/hfreu/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/hfreu/</guid>
+      <description>I have mentored students in association with the Harvard Forest Research Experience for Undergraduates (REU) Program. The REU is an ecology focused opportunity for undergraduates to get hands-on experience conducting field and laboratory research.</description>
+    </item>
+    
+    <item>
+      <title>Harvard Forest Postdoctoral Fellowship</title>
+      <link>http://github.mklau.io/blog/hfpostdoc/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/hfpostdoc/</guid>
+      <description>I have accepted an invitation to conduct postdoctoral studies at Harvard Forest (Harvard Univeristy) to continue my research on the impacts of genetic variation on ecological networks. I’ll be working with Dr. Aaron Ellison who has studied the impacts of ecological disturbance on a broad variety of ecological systems.</description>
+    </item>
+    
+  </channel>
+</rss>

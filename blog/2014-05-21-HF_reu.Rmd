@@ -1,0 +1,15 @@
+---
+title: Harvard Forest REU Program
+author: ~
+date: '2014-05-21'
+slug: hfreu
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "REU", "Research Experience", "Undergraduates", "Mentoring", "NSF"]
+authors: []
+---
+
+I have mentored students in association with the
+[Harvard Forest Research Experience for Undergraduates](http://harvardforest.fas.harvard.edu/other-tags/reu)
+(REU) Program. The REU is an ecology focused opportunity for
+undergraduates to get hands-on experience conducting field and
+laboratory research.

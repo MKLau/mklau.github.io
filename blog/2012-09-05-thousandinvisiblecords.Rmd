@@ -1,0 +1,17 @@
+---
+title: A Thousand Invisible Cords
+author: ~
+date: '2012-09-05'
+slug: knau
+categories: ["research"]
+tags: ["networks", "cottonwood", "ecology", "KNAU", "Thousand Invisible Cords", "John Muir", "genes-to-ecosystems", "interactions"]
+authors: []
+---
+
+The PBS documentary, "A Thousand Invisible Cords", explores the
+Genes-to-Ecosystem Research pioneered at Northern Arizona
+University. The title refers to a quote from John Muir referring to
+the interconnectedness of nature. The work highlighted in the film
+runs parallel with Muir's sentiment, largely revealing the role that
+genetically based variation plays in struturing ecosystems across
+space, time and biological scales.

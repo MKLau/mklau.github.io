@@ -1,0 +1,19 @@
+---
+title: Data provenance for scientific reproducibility
+author: ~
+date: '2016-05-01'
+slug: dataprov
+categories: ["research"]
+tags: ["HF", "Harvard Forest", "Harvard University", "Data", "Provenance", "Reproducibility"]
+authors: []
+---
+
+I'll be joinging a team based at Harvard University
+([Computer Science](https://www.seas.harvard.edu/computer-science) and
+[Harvard Forest](http://harvardforest.fas.harvard.edu/)) and [Mount
+Holyoke College](https://www.mtholyoke.edu/) to work on methods for
+capturing and storing information about scientific computations. We
+will be focusing on
+[Data Provenance](https://projects.iq.harvard.edu/provenance-at-harvard),
+which is a formal record of the processes that created a given data
+set. 

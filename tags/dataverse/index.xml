@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataverse on MKLau</title>
+    <link>http://github.mklau.io/tags/dataverse/</link>
+    <description>Recent content in Dataverse on MKLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://github.mklau.io/tags/dataverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published! If these data could talk...</title>
+      <link>http://github.mklau.io/blog/scidata/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.mklau.io/blog/scidata/</guid>
+      <description>Our paper on applications of data provenance is out in Nature Scientific Data!</description>
+    </item>
+    
+  </channel>
+</rss>
