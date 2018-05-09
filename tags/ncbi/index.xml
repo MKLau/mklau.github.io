@@ -5,17 +5,17 @@
     <link>http://github.mklau.io/tags/ncbi/</link>
     <description>Recent content in NCBI on MKLau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://github.mklau.io/tags/ncbi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Released! Draft *Aphaenogaster* genomes</title>
-      <link>http://github.mklau.io/blog/scidata/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <link>http://github.mklau.io/blog/2017-03-01-apgenomes/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://github.mklau.io/blog/scidata/</guid>
+      <guid>http://github.mklau.io/blog/2017-03-01-apgenomes/</guid>
       <description>Just finished the final assembly of draft genomes for six species of seed ants from the genus Aphaenogaster. You can read the pre-print of the paper here.
 The sequences will be released on NCBI in May 2018 check them out here.</description>
     </item>

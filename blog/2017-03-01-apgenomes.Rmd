@@ -1,8 +1,8 @@
 ---
 title: Released! Draft *Aphaenogaster* genomes
 author: ~
-date: '2017-01-01'
-slug: scidata
+date: '2017-03-01'
+slug: 
 categories: ["research"]
 tags: ["HF", "Harvard Forest", "Harvard University", "NCBI", "Genomes", "Ants", "Climate Change", "Broad Institute"]
 authors: []
